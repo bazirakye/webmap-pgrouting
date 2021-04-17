@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Police",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": 4858180621.0, "BizType": "police", "BizName": "Central Police Station", "Address1": null, "Address2": null, "PostalBox": "government", "City": "Ministry Of Internal Affairs", "Tel": null, "Email": null, "Website": null, "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.9127718, 3.017050999680793 ] } },
+{ "type": "Feature", "properties": { "ID": 3493040848.0, "BizType": "police", "BizName": "Arua Police Station", "Address1": null, "Address2": null, "PostalBox": null, "City": null, "Tel": null, "Email": null, "Website": null, "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.9121412, 3.018352099680663 ] } }
+]
+}

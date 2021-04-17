@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "universities",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": 1660640537.0, "BizType": "university", "BizName": "Makerere University Business School", "Address1": null, "Address2": null, "PostalBox": null, "City": null, "Tel": null, "Email": null, "Website": null, "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.9137881, 3.029800399679516 ] } },
+{ "type": "Feature", "properties": { "ID": 5357144560.0, "BizType": "university", "BizName": "Bugema University", "Address1": "generator;power_grid", "Address2": null, "PostalBox": null, "City": "Private", "Tel": null, "Email": null, "Website": null, "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.9162983, 3.013839999681116 ] } },
+{ "type": "Feature", "properties": { "ID": 1660640536.0, "BizType": "university", "BizName": "Islamic University in Uganda Office", "Address1": null, "Address2": null, "PostalBox": null, "City": null, "Tel": null, "Email": null, "Website": null, "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.9138802, 3.036279299678866 ] } },
+{ "type": "Feature", "properties": { "ID": 5357144573.0, "BizType": "university", "BizName": "Innovative Institute of Agriculture,Business and Capacity Building I.A.B.C", "Address1": "solar", "Address2": null, "PostalBox": null, "City": "Ministry of Education and Sports", "Tel": null, "Email": null, "Website": null, "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.9175242, 3.032466999679248 ] } }
+]
+}

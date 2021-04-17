@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Buses",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": 4348279490.0, "BizType": "bus_station", "BizName": "GaaGaa Bus", "Address1": null, "Address2": null, "PostalBox": null, "City": null, "Tel": null, "Email": null, "Website": null, "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.9119863, 3.024690599680028 ] } }
+]
+}

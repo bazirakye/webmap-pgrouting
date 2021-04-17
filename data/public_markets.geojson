@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "public_markets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": 5342523607.0, "BizType": "marketplace", "BizName": "Arua Hill", "Address1": null, "Address2": null, "PostalBox": null, "City": "Government", "Tel": null, "Email": null, "Website": null, "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.91398, 3.015461699680953 ] } },
+{ "type": "Feature", "properties": { "ID": 5498386896.0, "BizType": "marketplace", "BizName": "Arua Hawkers Market", "Address1": null, "Address2": null, "PostalBox": null, "City": "Municipal Council", "Tel": null, "Email": null, "Website": null, "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.9105483, 3.017921699680708 ] } },
+{ "type": "Feature", "properties": { "ID": 5342523594.0, "BizType": "marketplace", "BizName": "Club Cell", "Address1": null, "Address2": null, "PostalBox": null, "City": "Government", "Tel": null, "Email": null, "Website": null, "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.9026899, 3.029918399679504 ] } },
+{ "type": "Feature", "properties": { "ID": 5498386829.0, "BizType": "marketplace", "BizName": "Arua Hawkers' Market", "Address1": null, "Address2": null, "PostalBox": null, "City": "Arua Municipal", "Tel": null, "Email": null, "Website": null, "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.9093833, 3.025314999679965 ] } },
+{ "type": "Feature", "properties": { "ID": 5342524422.0, "BizType": "marketplace", "BizName": "Gagaa Cee", "Address1": null, "Address2": null, "PostalBox": null, "City": "Business Traders", "Tel": null, "Email": null, "Website": "convenience", "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.9106483, 3.023331699680164 ] } },
+{ "type": "Feature", "properties": { "ID": 5342523619.0, "BizType": "marketplace", "BizName": "Alia", "Address1": null, "Address2": null, "PostalBox": null, "City": "Business Traders", "Tel": null, "Email": null, "Website": null, "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.9109467, 3.023646699680132 ] } },
+{ "type": "Feature", "properties": { "ID": 5342523605.0, "BizType": "marketplace", "BizName": "Terego House", "Address1": null, "Address2": null, "PostalBox": null, "City": "Business Traders", "Tel": null, "Email": null, "Website": null, "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.91186, 3.025471699679949 ] } },
+{ "type": "Feature", "properties": { "ID": 5342523583.0, "BizType": "marketplace", "BizName": "Swalia", "Address1": null, "Address2": null, "PostalBox": null, "City": "Government", "Tel": null, "Email": null, "Website": null, "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.9101017, 3.028833299679613 ] } },
+{ "type": "Feature", "properties": { "ID": 5342523598.0, "BizType": "marketplace", "BizName": "Ombeteni Market", "Address1": null, "Address2": null, "PostalBox": null, "City": "Government", "Tel": null, "Email": null, "Website": null, "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.9336482, 3.014881899681011 ] } },
+{ "type": "Feature", "properties": { "ID": 5342523599.0, "BizType": "marketplace", "BizName": "Oli B", "Address1": null, "Address2": null, "PostalBox": null, "City": "Oil Division Local Council", "Tel": null, "Email": null, "Website": null, "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.9097367, 3.033086699679186 ] } }
+]
+}

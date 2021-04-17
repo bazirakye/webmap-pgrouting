@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Arua_Mun_Nightlife",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": 3493040615.0, "BizType": "bar", "BizName": "Hot Pot Bar", "Address1": null, "Address2": null, "PostalBox": null, "City": null, "Tel": null, "Email": null, "Website": null, "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.9090086, 3.025227499679974 ] } },
+{ "type": "Feature", "properties": { "ID": 5268743921.0, "BizType": "bar", "BizName": "Vino Lounge & Galaxy", "Address1": null, "Address2": null, "PostalBox": null, "City": null, "Tel": null, "Email": null, "Website": null, "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.908411, 3.025533599679943 ] } },
+{ "type": "Feature", "properties": { "ID": 5268764122.0, "BizType": "nightclub", "BizName": "Club Vegas", "Address1": null, "Address2": null, "PostalBox": null, "City": null, "Tel": null, "Email": null, "Website": null, "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.9118427, 3.021242199680373 ] } }
+]
+}

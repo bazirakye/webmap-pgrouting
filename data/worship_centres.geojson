@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "worship_centres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": 3535751689.0, "BizType": "place_of_worship", "BizName": "Christ the King catholic church", "Address1": null, "Address2": null, "PostalBox": null, "City": null, "Tel": null, "Email": null, "Website": null, "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.9132715, 3.017955599680705 ] } },
+{ "type": "Feature", "properties": { "ID": 1660713205.0, "BizType": "place_of_worship", "BizName": "Catholic Church of Uganda", "Address1": null, "Address2": null, "PostalBox": null, "City": null, "Tel": null, "Email": null, "Website": null, "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.9133308, 3.018127299680687 ] } },
+{ "type": "Feature", "properties": { "ID": 3215873461.0, "BizType": "place_of_worship", "BizName": "Hindu Temple", "Address1": null, "Address2": null, "PostalBox": null, "City": null, "Tel": null, "Email": null, "Website": null, "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.9095943, 3.021428299680355 ] } },
+{ "type": "Feature", "properties": { "ID": 5338650962.0, "BizType": "place_of_worship", "BizName": "Safina Mosque", "Address1": null, "Address2": null, "PostalBox": null, "City": "Samir Suhali", "Tel": null, "Email": null, "Website": null, "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.9093489, 3.030736899679421 ] } },
+{ "type": "Feature", "properties": { "ID": 5338650963.0, "BizType": "place_of_worship", "BizName": "Safi Mosque", "Address1": null, "Address2": null, "PostalBox": null, "City": "Muslim Community", "Tel": null, "Email": null, "Website": null, "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.912745, 3.027189999679778 ] } },
+{ "type": "Feature", "properties": { "ID": 5338651005.0, "BizType": "place_of_worship", "BizName": "Voice Of Life", "Address1": null, "Address2": null, "PostalBox": null, "City": "Protestant Church", "Tel": null, "Email": null, "Website": null, "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.91659, 3.011956699681306 ] } },
+{ "type": "Feature", "properties": { "ID": 1647403151.0, "BizType": "place_of_worship", "BizName": "Emmanuel Cathedral", "Address1": null, "Address2": null, "PostalBox": null, "City": null, "Tel": null, "Email": null, "Website": null, "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.9337829, 3.015041199680996 ] } },
+{ "type": "Feature", "properties": { "ID": 5338938969.0, "BizType": "place_of_worship", "BizName": "Mvara", "Address1": "solar;power grid", "Address2": null, "PostalBox": null, "City": null, "Tel": null, "Email": null, "Website": null, "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.9251201, 3.022938299680205 ] } }
+]
+}

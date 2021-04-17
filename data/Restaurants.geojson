@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "Restaurants",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": 5351850726.0, "BizType": "restaurant", "BizName": "Peace Talk", "Address1": null, "Address2": null, "PostalBox": null, "City": null, "Tel": null, "Email": null, "Website": null, "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.9103488, 3.013545299681147 ] } },
+{ "type": "Feature", "properties": { "ID": 3535755470.0, "BizType": "cafe", "BizName": "Cafe Cosmo", "Address1": null, "Address2": null, "PostalBox": null, "City": null, "Tel": null, "Email": null, "Website": null, "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.9138407, 3.013061399681195 ] } },
+{ "type": "Feature", "properties": { "ID": 5344284624.0, "BizType": "restaurant", "BizName": "Foodz Inn", "Address1": null, "Address2": null, "PostalBox": null, "City": null, "Tel": null, "Email": null, "Website": null, "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.9087013, 3.024737399680022 ] } },
+{ "type": "Feature", "properties": { "ID": 5344290122.0, "BizType": "restaurant", "BizName": "Arua food center", "Address1": null, "Address2": null, "PostalBox": null, "City": null, "Tel": null, "Email": null, "Website": null, "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.9110173, 3.022721399680225 ] } },
+{ "type": "Feature", "properties": { "ID": 5344284623.0, "BizType": "restaurant", "BizName": "Restaurant", "Address1": null, "Address2": null, "PostalBox": null, "City": null, "Tel": null, "Email": null, "Website": null, "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.911554, 3.023413899680156 ] } },
+{ "type": "Feature", "properties": { "ID": 5344290121.0, "BizType": "restaurant", "BizName": "Bagdad Restaurant", "Address1": null, "Address2": null, "PostalBox": null, "City": null, "Tel": null, "Email": null, "Website": null, "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.912916, 3.023624199680134 ] } },
+{ "type": "Feature", "properties": { "ID": 3991128446.0, "BizType": "restaurant", "BizName": "Kamure Park", "Address1": null, "Address2": null, "PostalBox": null, "City": null, "Tel": null, "Email": null, "Website": null, "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.9071749, 3.02705689967979 ] } },
+{ "type": "Feature", "properties": { "ID": 3493041062.0, "BizType": "restaurant", "BizName": "West Nile Golf Club", "Address1": null, "Address2": null, "PostalBox": null, "City": null, "Tel": null, "Email": null, "Website": null, "Remarks": null }, "geometry": { "type": "Point", "coordinates": [ 30.9178896, 3.014740799681026 ] } }
+]
+}
